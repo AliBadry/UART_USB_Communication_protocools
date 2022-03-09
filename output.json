@@ -1,0 +1,16 @@
+[{
+ 	"Protocolname":"UART",
+		"outputs":{
+ 	"total_tx_time":128,
+		"overhead":20,
+		"efficiency":80
+ 	}
+ 	},
+{
+ 	"Protocolname":"USB",
+		"outputs":{
+ 	"total_tx_time":105.3,
+		"overhead":2.7540360873694207,
+		"efficiency":97.245963912630586
+ 	}
+ 	}]
